@@ -1,0 +1,69 @@
+{
+    "dish_name": "fish fry",
+    "dish_type": "Non - Veg Fry",
+    "ingredients_used": [
+        {
+            "ingredient": "Fish",
+            "quantity": "5.00 Teacup"
+        },
+        {
+            "ingredient": "All-Purpose Flour",
+            "quantity": "1.50 Teacup"
+        },
+        {
+            "ingredient": "Cornmeal",
+            "quantity": "1.00 Teacup"
+        },
+        {
+            "ingredient": "Egg",
+            "quantity": "1.00 Teacup"
+        },
+        {
+            "ingredient": "Milk",
+            "quantity": "1.50 Teacup"
+        },
+        {
+            "ingredient": "Salt",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Black Pepper",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Paprika",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Garlic Powder",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Onion Powder",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Cayenne Pepper",
+            "quantity": "2.00 Pieces"
+        },
+        {
+            "ingredient": "Vegetable Oil",
+            "quantity": "5.00 Teacup"
+        }
+    ],
+    "unit": "Katori",
+    "category_weight": 100.0,
+    "estimated_nutrition_per_100.0g_or_katori": {
+        "nutrition": {
+            "energy_kcal": 513.84,
+            "carb_g": 10.12,
+            "protein_g": 3.07,
+            "fat_g": 51.17,
+            "fibre_g": 1.7,
+            "calcium_mg": 26.31,
+            "iron_mg": 0.72,
+            "sodium_mg": 333.29,
+            "potassium_mg": 90.6
+        }
+    }
+}

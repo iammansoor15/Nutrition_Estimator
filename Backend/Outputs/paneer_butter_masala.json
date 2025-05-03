@@ -1,0 +1,89 @@
+{
+    "dish_name": "paneer butter masala",
+    "dish_type": "Veg Gravy",
+    "ingredients_used": [
+        {
+            "ingredient": "Paneer",
+            "quantity": "2.50 Teacup"
+        },
+        {
+            "ingredient": "Butter",
+            "quantity": "3.33 Tablespoon"
+        },
+        {
+            "ingredient": "Onions",
+            "quantity": "1.50 Teacup"
+        },
+        {
+            "ingredient": "Tomatoes",
+            "quantity": "2.50 Teacup"
+        },
+        {
+            "ingredient": "Cashews",
+            "quantity": "1.67 Tablespoon"
+        },
+        {
+            "ingredient": "Ginger",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Garlic",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Cream",
+            "quantity": "3.33 Tablespoon"
+        },
+        {
+            "ingredient": "Oil",
+            "quantity": "1.33 Tablespoon"
+        },
+        {
+            "ingredient": "Turmeric powder",
+            "quantity": "2.00 Pieces"
+        },
+        {
+            "ingredient": "Red chili powder",
+            "quantity": "3.00 Pieces"
+        },
+        {
+            "ingredient": "Garam masala",
+            "quantity": "2.00 Pieces"
+        },
+        {
+            "ingredient": "Cumin seeds",
+            "quantity": "2.00 Pieces"
+        },
+        {
+            "ingredient": "Kasuri methi",
+            "quantity": "1.00 Pieces"
+        },
+        {
+            "ingredient": "Sugar",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Salt",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Water",
+            "quantity": "1.50 Teacup"
+        }
+    ],
+    "unit": "Katori",
+    "category_weight": 150.0,
+    "estimated_nutrition_per_150.0g_or_katori": {
+        "nutrition": {
+            "energy_kcal": 258.73,
+            "carb_g": 13.4,
+            "protein_g": 9.44,
+            "fat_g": 18.73,
+            "fibre_g": 2.59,
+            "calcium_mg": 208.02,
+            "iron_mg": 2.13,
+            "sodium_mg": 335.94,
+            "potassium_mg": 345.23
+        }
+    }
+}

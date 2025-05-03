@@ -1,0 +1,117 @@
+{
+    "dish_name": "biryani",
+    "dish_type": "Dry Rice Item",
+    "ingredients_used": [
+        {
+            "ingredient": "Basmati Rice",
+            "quantity": "5.00 Teacup"
+        },
+        {
+            "ingredient": "Chicken",
+            "quantity": "8.00 Teacup"
+        },
+        {
+            "ingredient": "Yogurt",
+            "quantity": "2.00 Teacup"
+        },
+        {
+            "ingredient": "Onions",
+            "quantity": "3.00 Teacup"
+        },
+        {
+            "ingredient": "Tomatoes",
+            "quantity": "2.00 Teacup"
+        },
+        {
+            "ingredient": "Ginger",
+            "quantity": "3.33 Tablespoon"
+        },
+        {
+            "ingredient": "Garlic",
+            "quantity": "3.33 Tablespoon"
+        },
+        {
+            "ingredient": "Green Chilies",
+            "quantity": "2.00 Tablespoon"
+        },
+        {
+            "ingredient": "Ghee",
+            "quantity": "1.00 Teacup"
+        },
+        {
+            "ingredient": "Turmeric Powder",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Red Chili Powder",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Coriander Powder",
+            "quantity": "1.00 Tablespoon"
+        },
+        {
+            "ingredient": "Cumin Powder",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Garam Masala",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Salt",
+            "quantity": "1.33 Tablespoon"
+        },
+        {
+            "ingredient": "Bay Leaves",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Green Cardamom",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Black Cardamom",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Cloves",
+            "quantity": "3.00 Pieces"
+        },
+        {
+            "ingredient": "Cinnamon Stick",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Black Peppercorns",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Mint Leaves",
+            "quantity": "1.33 Tablespoon"
+        },
+        {
+            "ingredient": "Cilantro Leaves",
+            "quantity": "1.33 Tablespoon"
+        },
+        {
+            "ingredient": "Saffron",
+            "quantity": "1.00 Pieces"
+        }
+    ],
+    "unit": "Katori",
+    "category_weight": 124.0,
+    "estimated_nutrition_per_124.0g_or_katori": {
+        "nutrition": {
+            "energy_kcal": 235.01,
+            "carb_g": 28.19,
+            "protein_g": 9.34,
+            "fat_g": 10.19,
+            "fibre_g": 3.8,
+            "calcium_mg": 64.77,
+            "iron_mg": 3.11,
+            "sodium_mg": 497.48,
+            "potassium_mg": 308.28
+        }
+    }
+}

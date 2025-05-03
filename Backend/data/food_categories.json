@@ -1,0 +1,25 @@
+{
+    "food_categories": [
+      { "name": "Dry Rice Item", "unit": "Katori", "weight": "124g" },
+      { "name": "Wet Rice Item", "unit": "Katori", "weight": "150g" },
+      { "name": "Veg Gravy", "unit": "Katori", "weight": "150g" },
+      { "name": "Veg Fry", "unit": "Katori", "weight": "100g" },
+      { "name": "Non - Veg Gravy", "unit": "Katori", "weight": "150g" },
+      { "name": "Non - Veg Fry", "unit": "Katori", "weight": "100g" },
+      { "name": "Dals", "unit": "Katori", "weight": "150g" },
+      { "name": "Wet Breakfast Item", "unit": "Katori", "weight": "130g" },
+      { "name": "Dry Breakfast Item", "unit": "Katori", "weight": "100g" },
+      { "name": "Chutneys", "unit": "Tbsp", "weight": "15g" },
+      { "name": "Plain Flatbreads", "unit": "Piece", "weight": "50g" },
+      { "name": "Stuffed Flatbreads", "unit": "Piece", "weight": "100g" },
+      { "name": "Salads", "unit": "Katori", "weight": "100g" },
+      { "name": "Raita", "unit": "Katori", "weight": "150g" },
+      { "name": "Plain Soups", "unit": "Katori", "weight": "150g" },
+      { "name": "Mixed Soups", "unit": "Cup", "weight": "250g" },
+      { "name": "Hot Beverages", "unit": "Cup", "weight": "250ml" },
+      { "name": "Beverages", "unit": "Cup", "weight": "250ml" },
+      { "name": "Snacks", "unit": "Katori", "weight": "100g" },
+      { "name": "Sweets", "unit": "Katori", "weight": "120g" }
+    ]
+  }
+  

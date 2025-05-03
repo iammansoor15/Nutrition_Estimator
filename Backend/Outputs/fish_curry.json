@@ -1,0 +1,71 @@
+{
+    "dish_name": "fish curry",
+    "dish_type": "Non - Veg Gravy",
+    "ingredients_used": [
+        {
+            "ingredient": "Fish",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Onions",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Tomatoes",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Ginger",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Garlic",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Coconut Milk",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Turmeric Powder",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Chili Powder",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Cumin Powder",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Coriander Powder",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Garam Masala",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Vegetable Oil",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Salt",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Green Chilies",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Curry Leaves",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Water",
+            "quantity": "N/A"
+        }
+    ],
+    "error": "Total weight of ingredients is zero. Cannot scale."
+}

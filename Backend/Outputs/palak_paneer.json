@@ -1,0 +1,81 @@
+{
+    "dish_name": "palak paneer",
+    "dish_type": "Veg Gravy",
+    "ingredients_used": [
+        {
+            "ingredient": "Spinach",
+            "quantity": "5.00 Teacup"
+        },
+        {
+            "ingredient": "Paneer",
+            "quantity": "2.50 Teacup"
+        },
+        {
+            "ingredient": "Onion",
+            "quantity": "1.50 Teacup"
+        },
+        {
+            "ingredient": "Tomato",
+            "quantity": "2.00 Teacup"
+        },
+        {
+            "ingredient": "Ginger",
+            "quantity": "1.33 Tablespoon"
+        },
+        {
+            "ingredient": "Garlic",
+            "quantity": "1.00 Tablespoon"
+        },
+        {
+            "ingredient": "Green Chili",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Cream",
+            "quantity": "3.33 Tablespoon"
+        },
+        {
+            "ingredient": "Vegetable Oil",
+            "quantity": "2.67 Tablespoon"
+        },
+        {
+            "ingredient": "Cumin Seeds",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Turmeric Powder",
+            "quantity": "3.00 Pieces"
+        },
+        {
+            "ingredient": "Coriander Powder",
+            "quantity": "1.40 Teaspoon"
+        },
+        {
+            "ingredient": "Garam Masala",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Salt",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Kasuri Methi",
+            "quantity": "2.00 Pieces"
+        }
+    ],
+    "unit": "Katori",
+    "category_weight": 150.0,
+    "estimated_nutrition_per_150.0g_or_katori": {
+        "nutrition": {
+            "energy_kcal": 181.49,
+            "carb_g": 11.01,
+            "protein_g": 8.17,
+            "fat_g": 11.48,
+            "fibre_g": 3.31,
+            "calcium_mg": 219.38,
+            "iron_mg": 4.03,
+            "sodium_mg": 506.95,
+            "potassium_mg": 612.67
+        }
+    }
+}

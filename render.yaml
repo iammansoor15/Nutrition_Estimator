@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: nutrition-backend
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python wsgi_server.py
+    workingDir: Backend
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10
+
+  - type: web
+    name: nutrition-frontend
+    env: static
+    plan: free
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    workingDir: Frontend

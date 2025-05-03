@@ -1,0 +1,172 @@
+{
+    "food_category_data": {
+      "Dry Rice Item": [
+        "Vegetable Biryani",
+        "Chicken Fried Rice",
+        "Jeera Rice",
+        "Veg Pulao",
+        "Egg Fried Rice",
+        "Peas Pulao",
+        "Biryani"
+      ],
+      "Wet Rice Item": [
+        "Khichdi",
+        "Sambar Rice",
+        "Curd Rice",
+        "Tomato Rice",
+        "Lemon Rice",
+        "Bisi Bele Bath"
+      ],
+      "Veg Gravy": [
+        "Paneer Butter Masala",
+        "Palak Paneer",
+        "Malai Kofta",
+        "Kadai Vegetable",
+        "Navratan Korma",
+        "Mushroom Masala"
+      ],
+      "Veg Fry": [
+        "Aloo Fry",
+        "Bhindi Fry",
+        "Beans Poriyal",
+        "Aloo Gobi",
+        "Baingan Bharta",
+        "Stuffed Capsicum"
+      ],
+      "Non - Veg Gravy": [
+        "Chicken Curry",
+        "Mutton Korma",
+        "Butter Chicken",
+        "Fish Curry",
+        "Egg Curry",
+        "Prawn Masala"
+      ],
+      "Non - Veg Fry": [
+        "Chicken Fry",
+        "Fish Fry",
+        "Chicken 65",
+        "Pepper Chicken",
+        "Tandoori Chicken",
+        "Chilli Chicken"
+      ],
+      "Dals": [
+        "Toor Dal",
+        "Moong Dal Tadka",
+        "Dal Makhani",
+        "Chana Dal",
+        "Dal Fry",
+        "Masoor Dal",
+        "sambar"
+      ],
+      "Wet Breakfast Item": [
+        "Idli",
+        "Dosa",
+        "Utappam",
+        "Medu Vada",
+        "Appam",
+        "Pongal",
+        "Dosa",
+        "Idly"
+      ],
+      "Dry Breakfast Item": [
+        "Poha",
+        "Upma",
+        "Sabudana Khichdi",
+        "Besan Chilla",
+        "Thepla",
+        "Methi Paratha"
+      ],
+      "Chutneys": [
+        "Coconut Chutney",
+        "Tomato Chutney",
+        "Mint Chutney",
+        "Garlic Chutney",
+        "Peanut Chutney",
+        "Tamarind Chutney"
+      ],
+      "Plain Flatbreads": [
+        "Chapati",
+        "Phulka",
+        "Naan",
+        "Roti",
+        "Bhakri",
+        "Tandoori Roti"
+      ],
+      "Stuffed Flatbreads": [
+        "Aloo Paratha",
+        "Gobi Paratha",
+        "Methi Paratha",
+        "Paneer Paratha",
+        "Onion Paratha",
+        "Mooli Paratha"
+      ],
+      "Salads": [
+        "Cucumber Salad",
+        "Sprout Salad",
+        "Kachumber Salad",
+        "Beetroot Salad",
+        "Fruit Salad",
+        "Greek Salad"
+      ],
+      "Raita": [
+        "Cucumber Raita",
+        "Boondi Raita",
+        "Onion Raita",
+        "Mint Raita",
+        "Carrot Raita",
+        "Pineapple Raita"
+      ],
+      "Plain Soups": [
+        "Tomato Soup",
+        "Clear Veg Soup",
+        "Spinach Soup",
+        "Mushroom Soup",
+        "Lentil Soup",
+        "Carrot Soup"
+      ],
+      "Mixed Soups": [
+        "Mixed Veg Soup",
+        "Sweet Corn Soup",
+        "Manchow Soup",
+        "Hot and Sour Soup",
+        "Cream of Vegetable Soup",
+        "Thai Coconut Soup"
+      ],
+      "Hot Beverages": [
+        "Masala Chai",
+        "Filter Coffee",
+        "Ginger Tea",
+        "Kadak Chai",
+        "Green Tea",
+        "Hot Chocolate"
+      ],
+      "Beverages": [
+        "Lemon Juice",
+        "Buttermilk",
+        "Mango Lassi",
+        "Jaljeera",
+        "Badam Milk",
+        "Rose Milk"
+      ],
+      "Snacks": [
+        "Samosa",
+        "Onion Pakoda",
+        "Kachori",
+        "Bhel Puri",
+        "Pani Puri",
+        "Aloo Tikki",
+        "Burger",
+        "Sandwich",
+        "French Fries",
+        "Pizza"
+      ],
+      "Sweets": [
+        "Gulab Jamun",
+        "Rasgulla",
+        "Jalebi",
+        "Rasmalai",
+        "Barfi",
+        "Ladoo"
+      ]
+    }
+  }

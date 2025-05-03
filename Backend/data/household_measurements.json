@@ -1,0 +1,10 @@
+{
+    "units": [
+        { "name": "Pieces", "value": 1 },
+        { "name": "Cup or Katori", "value": 150 },
+        { "name": "Glass", "value": 250 },
+        { "name": "Teaspoon", "value": 5 },
+        { "name": "Tablespoon", "value": 15 },
+        { "name": "Teacup", "value": 100 }
+    ]
+  }
