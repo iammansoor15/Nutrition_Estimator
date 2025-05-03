@@ -1,0 +1,101 @@
+{
+    "dish_name": "shahi paneer",
+    "dish_type": "Veg Gravy",
+    "ingredients_used": [
+        {
+            "ingredient": "Paneer",
+            "quantity": "2.50 Teacup"
+        },
+        {
+            "ingredient": "Tomatoes",
+            "quantity": "2.00 Teacup"
+        },
+        {
+            "ingredient": "Onions",
+            "quantity": "1.00 Teacup"
+        },
+        {
+            "ingredient": "Cashews",
+            "quantity": "2.00 Tablespoon"
+        },
+        {
+            "ingredient": "Cream",
+            "quantity": "3.33 Tablespoon"
+        },
+        {
+            "ingredient": "Ginger",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Garlic",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Ghee",
+            "quantity": "2.00 Tablespoon"
+        },
+        {
+            "ingredient": "Turmeric Powder",
+            "quantity": "3.00 Pieces"
+        },
+        {
+            "ingredient": "Red Chili Powder",
+            "quantity": "3.00 Pieces"
+        },
+        {
+            "ingredient": "Coriander Powder",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Garam Masala",
+            "quantity": "3.00 Pieces"
+        },
+        {
+            "ingredient": "Cumin Seeds",
+            "quantity": "2.00 Pieces"
+        },
+        {
+            "ingredient": "Green Cardamom",
+            "quantity": "2.00 Pieces"
+        },
+        {
+            "ingredient": "Cloves",
+            "quantity": "1.00 Pieces"
+        },
+        {
+            "ingredient": "Cinnamon Stick",
+            "quantity": "1.00 Pieces"
+        },
+        {
+            "ingredient": "Bay Leaf",
+            "quantity": "1.00 Pieces"
+        },
+        {
+            "ingredient": "Kasoori Methi",
+            "quantity": "1.00 Pieces"
+        },
+        {
+            "ingredient": "Salt",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Sugar",
+            "quantity": "1.00 Teaspoon"
+        }
+    ],
+    "unit": "Katori",
+    "category_weight": 150.0,
+    "estimated_nutrition_per_150.0g_or_katori": {
+        "nutrition": {
+            "energy_kcal": 298.95,
+            "carb_g": 17.49,
+            "protein_g": 13.06,
+            "fat_g": 19.8,
+            "fibre_g": 3.37,
+            "calcium_mg": 294.31,
+            "iron_mg": 3.37,
+            "sodium_mg": 465.17,
+            "potassium_mg": 431.88
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "dish_name": "idly",
+    "dish_type": "Wet Breakfast Item",
+    "ingredients_used": [
+        {
+            "ingredient": "Rice",
+            "quantity": "7.50 Teacup"
+        },
+        {
+            "ingredient": "Black Gram",
+            "quantity": "2.00 Teacup"
+        },
+        {
+            "ingredient": "Fenugreek Seeds",
+            "quantity": "1.40 Teaspoon"
+        },
+        {
+            "ingredient": "Salt",
+            "quantity": "2.40 Teaspoon"
+        }
+    ],
+    "unit": "Katori",
+    "category_weight": 130.0,
+    "estimated_nutrition_per_130.0g_or_katori": {
+        "nutrition": {
+            "energy_kcal": 199.49,
+            "carb_g": 26.16,
+            "protein_g": 10.73,
+            "fat_g": 5.5,
+            "fibre_g": 7.11,
+            "calcium_mg": 49.1,
+            "iron_mg": 2.28,
+            "sodium_mg": 734.65,
+            "potassium_mg": 458.42
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "dish_name": "chicken biryani",
+    "dish_type": "Dry Rice Item",
+    "ingredients_used": [
+        {
+            "ingredient": "Chicken",
+            "quantity": "6.00 Teacup"
+        },
+        {
+            "ingredient": "Basmati Rice",
+            "quantity": "4.00 Teacup"
+        },
+        {
+            "ingredient": "Onions",
+            "quantity": "2.50 Teacup"
+        },
+        {
+            "ingredient": "Tomatoes",
+            "quantity": "1.80 Teacup"
+        },
+        {
+            "ingredient": "Ginger",
+            "quantity": "2.67 Tablespoon"
+        },
+        {
+            "ingredient": "Garlic",
+            "quantity": "2.67 Tablespoon"
+        },
+        {
+            "ingredient": "Yogurt",
+            "quantity": "1.20 Teacup"
+        },
+        {
+            "ingredient": "Cooking Oil",
+            "quantity": "5.33 Tablespoon"
+        },
+        {
+            "ingredient": "Turmeric Powder",
+            "quantity": "1.40 Teaspoon"
+        },
+        {
+            "ingredient": "Red Chili Powder",
+            "quantity": "1.60 Teaspoon"
+        },
+        {
+            "ingredient": "Coriander Powder",
+            "quantity": "2.40 Teaspoon"
+        },
+        {
+            "ingredient": "Cumin Powder",
+            "quantity": "1.60 Teaspoon"
+        },
+        {
+            "ingredient": "Cinnamon Stick",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Green Cardamom",
+            "quantity": "3.00 Pieces"
+        },
+        {
+            "ingredient": "Cloves",
+            "quantity": "2.00 Pieces"
+        },
+        {
+            "ingredient": "Bay Leaf",
+            "quantity": "1.00 Pieces"
+        },
+        {
+            "ingredient": "Star Anise",
+            "quantity": "1.00 Pieces"
+        },
+        {
+            "ingredient": "Black Peppercorns",
+            "quantity": "2.00 Pieces"
+        },
+        {
+            "ingredient": "Saffron",
+            "quantity": "N/A"
+        },
+        {
+            "ingredient": "Kewra Water",
+            "quantity": "1.00 Tablespoon"
+        },
+        {
+            "ingredient": "Green Chilies",
+            "quantity": "1.00 Tablespoon"
+        },
+        {
+            "ingredient": "Mint Leaves",
+            "quantity": "1.00 Tablespoon"
+        },
+        {
+            "ingredient": "Coriander Leaves",
+            "quantity": "1.00 Tablespoon"
+        },
+        {
+            "ingredient": "Salt",
+            "quantity": "1.33 Tablespoon"
+        },
+        {
+            "ingredient": "Water",
+            "quantity": "7.00 Teacup"
+        }
+    ],
+    "unit": "Katori",
+    "category_weight": 124.0,
+    "estimated_nutrition_per_124.0g_or_katori": {
+        "nutrition": {
+            "energy_kcal": 170.7,
+            "carb_g": 20.61,
+            "protein_g": 6.57,
+            "fat_g": 7.46,
+            "fibre_g": 2.82,
+            "calcium_mg": 38.2,
+            "iron_mg": 2.17,
+            "sodium_mg": 446.13,
+            "potassium_mg": 218.2
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "dish_name": "chicken curry",
+    "dish_type": "Non - Veg Gravy",
+    "ingredients_used": [
+        {
+            "ingredient": "Chicken",
+            "quantity": "5.00 Teacup"
+        },
+        {
+            "ingredient": "Onion",
+            "quantity": "2.00 Teacup"
+        },
+        {
+            "ingredient": "Tomato",
+            "quantity": "2.00 Teacup"
+        },
+        {
+            "ingredient": "Ginger",
+            "quantity": "1.33 Tablespoon"
+        },
+        {
+            "ingredient": "Garlic",
+            "quantity": "1.00 Tablespoon"
+        },
+        {
+            "ingredient": "Green Chili",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Turmeric Powder",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Cumin Powder",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Coriander Powder",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Red Chili Powder",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Garam Masala",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Salt",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Cooking Oil",
+            "quantity": "3.33 Tablespoon"
+        },
+        {
+            "ingredient": "Water",
+            "quantity": "2.50 Teacup"
+        },
+        {
+            "ingredient": "Fresh Cilantro",
+            "quantity": "2.00 Teaspoon"
+        }
+    ],
+    "unit": "Katori",
+    "category_weight": 150.0,
+    "estimated_nutrition_per_150.0g_or_katori": {
+        "nutrition": {
+            "energy_kcal": 157.18,
+            "carb_g": 7.99,
+            "protein_g": 7.64,
+            "fat_g": 10.54,
+            "fibre_g": 3.24,
+            "calcium_mg": 46.8,
+            "iron_mg": 2.9,
+            "sodium_mg": 319.69,
+            "potassium_mg": 401.81
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "dish_name": "kadai paneer",
+    "dish_type": "Veg Gravy",
+    "ingredients_used": [
+        {
+            "ingredient": "Paneer",
+            "quantity": "3.00 Teacup"
+        },
+        {
+            "ingredient": "Tomatoes",
+            "quantity": "4.00 Teacup"
+        },
+        {
+            "ingredient": "Onions",
+            "quantity": "2.00 Teacup"
+        },
+        {
+            "ingredient": "Bell Peppers",
+            "quantity": "1.50 Teacup"
+        },
+        {
+            "ingredient": "Ginger",
+            "quantity": "1.33 Tablespoon"
+        },
+        {
+            "ingredient": "Garlic",
+            "quantity": "1.00 Tablespoon"
+        },
+        {
+            "ingredient": "Coriander Seeds",
+            "quantity": "2.00 Teaspoon"
+        },
+        {
+            "ingredient": "Cumin Seeds",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Dry Red Chilies",
+            "quantity": "4.00 Pieces"
+        },
+        {
+            "ingredient": "Turmeric Powder",
+            "quantity": "3.00 Pieces"
+        },
+        {
+            "ingredient": "Red Chili Powder",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Garam Masala",
+            "quantity": "1.00 Teaspoon"
+        },
+        {
+            "ingredient": "Kasuri Methi",
+            "quantity": "3.00 Pieces"
+        },
+        {
+            "ingredient": "Vegetable Oil",
+            "quantity": "3.33 Tablespoon"
+        },
+        {
+            "ingredient": "Salt",
+            "quantity": "1.60 Teaspoon"
+        },
+        {
+            "ingredient": "Fresh Cream",
+            "quantity": "3.33 Tablespoon"
+        }
+    ],
+    "unit": "Katori",
+    "category_weight": 150.0,
+    "estimated_nutrition_per_150.0g_or_katori": {
+        "nutrition": {
+            "energy_kcal": 244.42,
+            "carb_g": 15.88,
+            "protein_g": 9.77,
+            "fat_g": 15.88,
+            "fibre_g": 5.01,
+            "calcium_mg": 263.84,
+            "iron_mg": 3.42,
+            "sodium_mg": 424.59,
+            "potassium_mg": 420.32
+        }
+    }
+}
