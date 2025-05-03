@@ -10,7 +10,7 @@ const Home = () => {
     try {
       setLoading(true);
       setError('');
-      const response = await fetch(`http://127.0.0.1:5000/api/get_dish_info/${encodeURIComponent(dishName)}`);
+      const response = await fetch(`https://nutrition-estimator.onrender.com/api/get_dish_info/${encodeURIComponent(dishName)}`);
       if (!response.ok) {
         throw new Error('Dish not found');
       }
