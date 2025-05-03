@@ -6,6 +6,8 @@ import subprocess
 
 app = Flask(__name__)
 
+CORS(app)
+
 # Enable CORS for all routes
 
 # Set up logging
