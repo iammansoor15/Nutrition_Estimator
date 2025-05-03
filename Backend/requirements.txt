@@ -5,7 +5,9 @@ nltk
 scikit-learn
 google-generativeai
 numpy
-huggingface_hub
+huggingface_hub[hf_xet]
 flask
 flask-cors
 waitress
+spacy
+rapidfuzz
